@@ -11,11 +11,11 @@ body{
  .navbar-dark .navbar-nav{
 color: black;
 font: 20px;
+background-color: black;   
 }
 
-.navbar-custom{
-background-color: black;
-}
+
+
 .navbar-expand-md .navbar-nav .nav-link
 {
   padding-left: 20px;
