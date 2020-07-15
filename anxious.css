@@ -1,0 +1,73 @@
+body{
+  background-color:black;
+  color:white;
+}
+
+ .navbar-dark .navbar-nav{
+color: black;
+font: 20px;
+}
+
+.navbar-expand-md .navbar-nav .nav-link
+{
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+.nav-link{
+  color: white;
+}
+
+.home{
+  margin-left: 100px;
+}
+.second  {
+  width:30%;
+  height:30%;
+  float:right;
+  margin-right: 30px;
+}
+p{
+  margin-left: 24px;
+  margin-right:35%;
+}
+.third{
+  width:30%;
+  height:30%;
+  float:left;
+  margin-left: 30px;
+  margin-top: 70px;
+}
+
+.secondpara{
+  margin-left:35%;
+  margin-right:15px;
+}
+h2{
+  margin-right: 15%;
+}
+.video{
+  margin-left:30%;
+}
+
+.thirdpara{
+  margin-top: 0%;
+  margin-right: 50%;
+  margin-left: 50px;
+}
+.fourth{
+  width: 30%;
+  height: 25%;
+  margin-right: 50px;
+  float:right;
+}
+
+.left{
+  margin-right: 50%;
+  margin-left: 15%;
+  margin-top: 0%;
+}
+.quote{
+  margin-left: 70%;
+  margin-right: 0px;
+}
