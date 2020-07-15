@@ -1,0 +1,97 @@
+body{
+    background-color:black;
+}
+.navbar-custom{
+    background-color: black; 
+     } 
+.carousel-inner img {
+    width: 100%;
+    height: 700px;
+}
+.panel-heading{
+    font-size: xx-large;
+    color: blanchedalmond;
+    font-family:'Times New Roman';
+    text-decoration: underline;
+    text-decoration-color: tomato;
+    padding-left: 5%;
+}
+.heading-divider{
+    text-align: center;
+    border-top: 3px solid #F48A6C;
+    margin-bottom: 50px;
+    margin-top: 55px;
+}
+
+.panel-body{
+    font-size: xx-large;
+    font-family:'Times New Roman';
+    color: blanchedalmond;
+    text-decoration-color: tomato;
+    padding-left:5%;
+}
+p{
+    font-size: xx-large;
+    font-family:'Times New Roman';
+    color: blanchedalmond;
+    padding-top:2px;
+    padding-left: 5%;
+}
+h{
+    text-decoration: underline;
+    text-decoration-color: tomato;
+    color: blanchedalmond;
+    font-family: Helvetica;
+    font-size: xx-large;
+    padding-top: 5%;
+    padding-left:5% ;
+}
+.list{
+    font-size: xx-large;
+    color:blanchedalmond;
+    padding-top:10px;
+    padding-left: 8%;
+}
+.Benefit-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+   
+}
+.Diary-img{
+    float:right;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:400px;
+    width:50%;
+    padding-top: 5%;
+
+}
+.diary{
+    font-size: xx-large;
+    color: blanchedalmond
+}
+.container{
+    float:center;
+    padding-top:10%;
+    padding-right: 40%;
+    
+}
+.habits-divider{
+    text-align: center;
+    border-top: 3px solid #F48A6C;
+    margin-bottom: 40px;
+    margin-top: 300px;
+}
+.search-container{
+  float: center;
+  padding-left: 40%;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
