@@ -3,7 +3,7 @@ body{
   color:white;
 }
 
- /*.navbar-dark .navbar-nav{
+ .navbar-dark .navbar-nav{
 color: black;
 font: 20px;
 }
@@ -16,7 +16,7 @@ font: 20px;
 }
 .nav-link{
   color: white;
-}*/
+}
 .navbar-custom{
   background-color: black; 
    } 
