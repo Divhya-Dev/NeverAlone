@@ -2,6 +2,25 @@
   background-color: black; 
    } 
 
+.navbar-dark .navbar-nav{
+color: black;
+font: 20px;
+background-color: black;   
+}
+
+
+.navbar-expand-md .navbar-nav .nav-link
+{
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color : black;
+
+}
+
+.nav-link{
+  color: white;
+}
+
 p{
   
   margin-left: 70px;
