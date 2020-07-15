@@ -1,0 +1,58 @@
+body{
+    background-color:black;
+}
+.navbar-custom{
+    background-color: black; 
+     } 
+p{
+    font-size: xx-large;
+    color:blanchedalmond;
+    padding:25px;
+}
+h1{
+    font-size: xx-large;
+    float: right;
+    color: blanchedalmond;
+    padding-right:20%;
+}
+h2{
+    font-size: xx-large;
+    color: blanchedalmond;
+    text-decoration: underline;
+    text-decoration-color:  #F48A6C;
+}
+h3{
+    font-size: xx-large;
+    color: blanchedalmond;
+}
+
+}
+.heading-divider{
+    text-align: center;
+    border-top: 4px solid #F48A6C;
+    margin-bottom: 50px;
+    margin-top: 55px;
+}
+.quotes{
+    border-style: solid;
+    border-color: coral;
+    padding-bottom: 40px;
+    padding-top: 25px;
+}
+.container{
+    float:right;
+    padding-right: 30px;
+}
+.struggle-img{
+    padding-left: 50px;
+}
+p1{
+    font-size: xx-large;
+    color:blanchedalmond;
+    padding-top:10px;
+
+}
+.overcome-img{
+    float:right;
+    padding-right: 15%;
+}
