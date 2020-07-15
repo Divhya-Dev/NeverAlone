@@ -1,0 +1,29 @@
+.col-sm-4{
+	padding: 0px;
+
+}
+
+.col-sm-8{
+	color: white;
+background-color:black;
+border-bottom: 3px solid  rgb(255 228 181);
+}
+
+.col-sm-8 p{
+	padding-top: 50px;
+	padding-left: 10px;
+	padding-right: 10px;
+
+}
+h3{
+	padding-top: 10px;
+	border-top: 3px solid rgb(255 228 181);
+	
+}
+body{
+background-color: rgb(255 250 205);
+
+}
+.navbar-custom{
+  background-color: black; 
+   } 

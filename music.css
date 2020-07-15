@@ -1,0 +1,36 @@
+.navbar-custom{
+  background-color: black; 
+   } 
+
+body{
+	background-color: rgb(255 250 205);
+	color:black;
+	font-size: 12px;
+	font-family: "Sofia";
+	text-align: center;
+}
+
+
+p{
+padding: 10px 20px 0px 10px;
+margin:10px 0px 10px 0px;
+font-family: "Sofia";
+font-size: 11px;
+color:white;
+text-align: left;
+border: 3px solid violet;
+background-color: black;
+
+}
+
+iframe{
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
+col-sm-5{
+
+background-color: rgb(255 250 205);	
+}
+
