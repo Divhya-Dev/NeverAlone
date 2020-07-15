@@ -5,24 +5,24 @@ body{
     background-color: black; 
      } 
 p{
-    font-size: x-large;
+    font-size: large;
     color:blanchedalmond;
     padding:25px;
 }
 h1{
-    font-size: x-large;
+    font-size: large;
     float: right;
     color: blanchedalmond;
     padding-right:20%;
 }
 h2{
-    font-size: x-large;
+    font-size: large;
     color: blanchedalmond;
     text-decoration: underline;
     text-decoration-color:  #F48A6C;
 }
 h3{
-    font-size: x-large;
+    font-size: large;
     color: blanchedalmond;
 }
 
@@ -47,7 +47,7 @@ h3{
     padding-left: 50px;
 }
 p1{
-    font-size: x-large;
+    font-size: large;
     color:blanchedalmond;
     padding-top:10px;
 
