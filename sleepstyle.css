@@ -24,14 +24,14 @@ body{
 }
 
 .panel-body{
-    font-size: 12px;
+    font-size: xx-large ;
     font-family:'Times New Roman';
     color: blanchedalmond;
     text-decoration-color: tomato;
     padding-left:5%;
 }
 p{
-    font-size: 12px;
+    font-size: xx-large;
     font-family:'Times New Roman';
     color: blanchedalmond;
     padding-top:2px;
@@ -42,12 +42,12 @@ h{
     text-decoration-color: tomato;
     color: blanchedalmond;
     font-family: Helvetica;
-    font-size: 12px;
+    font-size: xx-large;
     padding-top: 5%;
     padding-left:5% ;
 }
 .list{
-    font-size: 12px;
+    font-size: xx-large;
     color:blanchedalmond;
     padding-top:10px;
     padding-left: 8%;
