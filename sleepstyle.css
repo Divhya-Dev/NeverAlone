@@ -9,7 +9,7 @@ body{
     height: 700px;
 }
 .panel-heading{
-    font-size: x-large;
+    font-size: large;
     color: blanchedalmond;
     font-family:'Times New Roman';
     text-decoration: underline;
@@ -24,14 +24,14 @@ body{
 }
 
 .panel-body{
-    font-size: x-large ;
+    font-size: large ;
     font-family:'Times New Roman';
     color: blanchedalmond;
     text-decoration-color: tomato;
     padding-left:5%;
 }
 p{
-    font-size: x-large;
+    font-size: large;
     font-family:'Times New Roman';
     color: blanchedalmond;
     padding-top:2px;
@@ -42,12 +42,12 @@ h{
     text-decoration-color: tomato;
     color: blanchedalmond;
     font-family: Helvetica;
-    font-size: x-large;
+    font-size: large;
     padding-top: 5%;
     padding-left:5% ;
 }
 .list{
-    font-size: x-large;
+    font-size: large;
     color:blanchedalmond;
     padding-top:10px;
     padding-left: 8%;
@@ -70,7 +70,7 @@ h{
 
 }
 .diary{
-    font-size: xx-large;
+    font-size:large;
     color: blanchedalmond
 }
 .container{
