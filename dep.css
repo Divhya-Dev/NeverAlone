@@ -13,11 +13,14 @@ color: black;
 font: 20px;
 }
 
+.navbar-custom{
+background-color: black;
+}
 .navbar-expand-md .navbar-nav .nav-link
 {
   padding-left: 20px;
   padding-right: 20px;
-  background-color: black;
+  
 
 }
 .nav-link{
